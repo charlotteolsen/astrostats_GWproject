@@ -1,0 +1,365 @@
+{
+  "data": {
+    "151008": {
+      "dq": {
+        "best": "No artifacts"
+      },
+      "far": {
+        "best": 10.17
+      },
+      "mchirp_search": {
+        "best": 5.12
+      },
+      "pipeline": {
+        "best": "pycbc"
+      },
+      "snr": {
+        "best": 8.8
+      },
+      "tc": {
+        "best": 1128348574.5
+      },
+      "utctime": {
+        "best": "14:09:17.5"
+      }
+    },
+    "151012A": {
+      "dq": {
+        "best": "Artifacts present"
+      },
+      "far": {
+        "best": 8.56
+      },
+      "mchirp_search": {
+        "best": 2.01
+      },
+      "pipeline": {
+        "best": "gstlal"
+      },
+      "snr": {
+        "best": 9.6
+      },
+      "tc": {
+        "best": 1128666662.2
+      },
+      "utctime": {
+        "best": "06:30:45.2"
+      }
+    },
+    "151116": {
+      "dq": {
+        "best": "No artifacts"
+      },
+      "far": {
+        "best": 4.77
+      },
+      "mchirp_search": {
+        "best": 1.24
+      },
+      "pipeline": {
+        "best": "pycbc"
+      },
+      "snr": {
+        "best": 9.0
+      },
+      "tc": {
+        "best": 1131748925.7
+      },
+      "utctime": {
+        "best": "22:41:48.7"
+      }
+    },
+    "161202": {
+      "dq": {
+        "best": "Artifacts can account for"
+      },
+      "far": {
+        "best": 6.0
+      },
+      "mchirp_search": {
+        "best": 1.54
+      },
+      "pipeline": {
+        "best": "gstlal"
+      },
+      "snr": {
+        "best": 10.5
+      },
+      "tc": {
+        "best": 1164686041.9
+      },
+      "utctime": {
+        "best": "03:53:44.9"
+      }
+    },
+    "161217": {
+      "dq": {
+        "best": "Artifacts can account for"
+      },
+      "far": {
+        "best": 10.12
+      },
+      "mchirp_search": {
+        "best": 7.86
+      },
+      "pipeline": {
+        "best": "gstlal"
+      },
+      "snr": {
+        "best": 10.7
+      },
+      "tc": {
+        "best": 1165994201.4
+      },
+      "utctime": {
+        "best": "07:16:24.4"
+      }
+    },
+    "170208": {
+      "dq": {
+        "best": "Artifacts present"
+      },
+      "far": {
+        "best": 11.18
+      },
+      "mchirp_search": {
+        "best": 7.39
+      },
+      "pipeline": {
+        "best": "gstlal"
+      },
+      "snr": {
+        "best": 10.0
+      },
+      "tc": {
+        "best": 1170585583.8
+      },
+      "utctime": {
+        "best": "10:39:25.8"
+      }
+    },
+    "170219": {
+      "dq": {
+        "best": "No artifacts"
+      },
+      "far": {
+        "best": 6.26
+      },
+      "mchirp_search": {
+        "best": 1.53
+      },
+      "pipeline": {
+        "best": "gstlal"
+      },
+      "snr": {
+        "best": 9.6
+      },
+      "tc": {
+        "best": 1171548267.0
+      },
+      "utctime": {
+        "best": "14:04:09.0"
+      }
+    },
+    "170405": {
+      "dq": {
+        "best": "Artifacts present"
+      },
+      "far": {
+        "best": 4.55
+      },
+      "mchirp_search": {
+        "best": 1.44
+      },
+      "pipeline": {
+        "best": "gstlal"
+      },
+      "snr": {
+        "best": 9.3
+      },
+      "tc": {
+        "best": 1175425510.7
+      },
+      "utctime": {
+        "best": "11:04:52.7"
+      }
+    },
+    "170412": {
+      "dq": {
+        "best": "Artifacts can account for"
+      },
+      "far": {
+        "best": 8.22
+      },
+      "mchirp_search": {
+        "best": 4.36
+      },
+      "pipeline": {
+        "best": "gstlal"
+      },
+      "snr": {
+        "best": 9.7
+      },
+      "tc": {
+        "best": 1176047817.0
+      },
+      "utctime": {
+        "best": "15:56:39.0"
+      }
+    },
+    "170423": {
+      "dq": {
+        "best": "No artifacts"
+      },
+      "far": {
+        "best": 6.47
+      },
+      "mchirp_search": {
+        "best": 1.17
+      },
+      "pipeline": {
+        "best": "gstlal"
+      },
+      "snr": {
+        "best": 8.9
+      },
+      "tc": {
+        "best": 1176984663.0
+      },
+      "utctime": {
+        "best": "12:10:45.0"
+      }
+    },
+    "170616": {
+      "dq": {
+        "best": "Artifacts present"
+      },
+      "far": {
+        "best": 1.94
+      },
+      "mchirp_search": {
+        "best": 2.75
+      },
+      "pipeline": {
+        "best": "pycbc"
+      },
+      "snr": {
+        "best": 9.1
+      },
+      "tc": {
+        "best": 1181677658.8
+      },
+      "utctime": {
+        "best": "19:47:20.8"
+      }
+    },
+    "170630": {
+      "dq": {
+        "best": "Artifacts present"
+      },
+      "far": {
+        "best": 10.46
+      },
+      "mchirp_search": {
+        "best": 0.9
+      },
+      "pipeline": {
+        "best": "gstlal"
+      },
+      "snr": {
+        "best": 9.7
+      },
+      "tc": {
+        "best": 1182874645.8
+      },
+      "utctime": {
+        "best": "16:17:07.8"
+      }
+    },
+    "170705": {
+      "dq": {
+        "best": "No artifacts"
+      },
+      "far": {
+        "best": 10.97
+      },
+      "mchirp_search": {
+        "best": 3.4
+      },
+      "pipeline": {
+        "best": "gstlal"
+      },
+      "snr": {
+        "best": 9.3
+      },
+      "tc": {
+        "best": 1183279534.3
+      },
+      "utctime": {
+        "best": "08:45:16.3"
+      }
+    },
+    "170720": {
+      "dq": {
+        "best": "Artifacts can account for"
+      },
+      "far": {
+        "best": 10.75
+      },
+      "mchirp_search": {
+        "best": 5.96
+      },
+      "pipeline": {
+        "best": "gstlal"
+      },
+      "snr": {
+        "best": 13.0
+      },
+      "tc": {
+        "best": 1184625889.8
+      },
+      "utctime": {
+        "best": "22:44:31.8"
+      }
+    }
+  },
+  "parameters": {
+    "dq": {
+      "name_en": "Data Quality",
+      "priority": 5,
+      "sigfig": 0
+    },
+    "far": {
+      "name_en": "FAR",
+      "priority": 2,
+      "sigfig": 2,
+      "unit_en": "yr^-1"
+    },
+    "mchirp_search": {
+      "name_en": "Detector frame chirp mass",
+      "priority": 4,
+      "sigfig": 2,
+      "unit_en": "M_sun"
+    },
+    "pipeline": {
+      "name_en": "Pipeline",
+      "priority": 2,
+      "sigfig": 0
+    },
+    "snr": {
+      "name_en": "Network SNR",
+      "priority": 3,
+      "sigfig": 1
+    },
+    "tc": {
+      "name_en": "GPS time (s)",
+      "priority": 1,
+      "sigfig": 1
+    },
+    "utctime": {
+      "name_en": "UTCtime",
+      "priority": 6,
+      "sigfig": 0
+    }
+  }
+}
